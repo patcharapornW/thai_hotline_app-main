@@ -80,7 +80,7 @@ class _AboutUIState extends State<AboutUI> {
               height: MediaQuery.of(context).size.height * 0.03,
             ),
             Text(
-              "6519410040",
+              "6519410056",
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.black,
@@ -88,7 +88,7 @@ class _AboutUIState extends State<AboutUI> {
               ),
             ),
             Text(
-              "นาย ศรัณชัย ท้วมกลัด",
+              "นางสาววรปรัชญ์ ครุธตำคำ",
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.black,
@@ -96,7 +96,7 @@ class _AboutUIState extends State<AboutUI> {
               ),
             ),
             Text(
-              "s6519410040@sau.ac.th",
+              "s6519410056@sau.ac.th",
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.black,
@@ -104,7 +104,7 @@ class _AboutUIState extends State<AboutUI> {
               ),
             ),
             Text(
-              "วิศวกรรมคอมพิวเตอตร์",
+              "วิศวกรรมคอมพิวเตอร์",
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.black,
